@@ -4,12 +4,21 @@ session_start();
 // Connection
 // Clients Register
 require_once 'db_connect.php';
+// Clear
+function clear($input){ // No more scripts!
+    global $connect;
+    // sql
+    $var = mysqli_escape_string($connect, $input);
+    // xss
+    $var = htmlspecialchars($var);
+    return $var;
+}   
 
 if(isset($_POST['btn-register'])):
-    $nome = mysqli_escape_string($connect, $_POST['nome']);
-    $lastname = mysqli_escape_string($connect, $_POST['lastname']);
-    $email = mysqli_escape_string($connect, $_POST['email']);
-    $age = mysqli_escape_string($connect, $_POST['age']);
+    $nome = clear($_POST['nome']); // mysqli_escape_string is for SQL Injection Protection
+    $lastname = clear($_POST['lastname']);
+    $email = clear($_POST['email']);
+    $age = clear($_POST['age']);
 endif;
 
 $sql = "INSERT INTO clientes (nome, sobrenome, email, idade) VALUES ('$nome', '$lastname', '$email', '$age')";
