@@ -1,4 +1,4 @@
-# 🆕🔠 C.R.U.D 🔄🚮
+# 🆕🔠 C.R.U.D Project 🔄🚮
 <p>It's a simple project of CRUD project.</p> 
 
 <div align="left">
