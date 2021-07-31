@@ -1,4 +1,4 @@
-# 🆕🔠 It's a repository of C.R.U.D Projects with different languages 🔄🚮
+# 🆕🔠 It's a repository of CRUD Projects with different languages 🔄🚮
 <p>It's a simple project of CRUD project.</p> 
 
 <div align="left">
