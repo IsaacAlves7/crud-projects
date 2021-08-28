@@ -1,4 +1,4 @@
-# 🆕🔠 CRUD Projects for different languages + frameworks 🔄🚮
+# 🆕🔠 CRUD Projects for different languages 🔄🚮
 <p>It's a simple project of CRUD project.</p> 
 
 # 🅲 C++ Language Programming 🅲
