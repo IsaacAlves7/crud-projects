@@ -1,4 +1,4 @@
-# 🆕🔠 It's a repository of CRUD Projects for different langs 🔄🚮
+# 🆕🔠 CRUD Projects for different languages + frameworks 🔄🚮
 <p>It's a simple project of CRUD project.</p> 
 
 # 🅲 C++ Language Programming 🅲
