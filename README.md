@@ -1,7 +1,7 @@
-# 🆕🔠 CRUD Projects for different languages 🔄🚮
-<p>It's a simple project of CRUD project.</p> 
+# 🆕🔠 C.R.U.D Projects for different languages 🔄🚮
+<blockquote>It's a repository of simple projects of <b>CRUD</b> (Create | Read | Update | Delete) with different architectures.</blockquote> 
 
-<div align="center"><img src="https://devporai.com.br/wp-content/uploads/2021/01/O-que-e-CRUD-740x414.jpg"></div></br \>
+<div align="center"><img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png"></div></br \>
 
 
 # 🅲 C++ Language Programming 🅲
