@@ -6,31 +6,31 @@
 <div align="center"><img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png"></div></br \>
 
 
-# 🅲 C++ Language Programming 🅲
+# 🅲 C++ Language Programming
 <img src="">
 
-# 🖥️ C-Sharp (C#) and .NET Framework 🖥️
+# 🖥️ C-Sharp (C#) and .NET Framework
 <img src="">
 
-# 💎 Ruby Language Programming 💎
+# 💎 Ruby Language Programming
 <img src="">
 
-# 🐹 Go Language Programming 🐹
+# 🐹 Go Language Programming
 <img src="">
 
-# ☕ Java Language Programming ☕
+# ☕ Java Language Programming
 <img src="">
 
-# 📜 JavaScript (Node.js) Language Programming 📜
+# 📜 JavaScript (Node.js) Language Programming
 <img src="https://www.webdesignemfoco.com/img/files/original/368570-crud-nodejs-l.jpg">
 
-# 🐍 Python Language Programming 🐍
+# 🐍 Python Language Programming
 <img src="https://www.webdesignemfoco.com/img/files/original/194176-banner-curso-de-python-l.jpg">
 
-# 🐘 PHP Language Programming 🐘
+# 🐘 PHP Language Programming
 <img src="">
 
-# 🦜 Kotlin Language Programming 🦜
+# 🦜 Kotlin Language Programming
 <img src="">
 
-# 🦅 Swift Language Programming 🦅
+# 🦅 Swift Language Programming
