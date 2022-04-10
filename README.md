@@ -1,6 +1,6 @@
 <a href="https://github.com/IsaacAlves7/crud-projects"><img src="https://user-images.githubusercontent.com/61624336/159622843-8f7ffa91-e9a5-49f4-8980-69d03dd2c3a7.png"></a>
 
-# 🆕🔠 C.R.U.D Projects for different languages 🔄🚮
+# 🆕🔠🔄🚮 C.R.U.D Projects for different languages
 <blockquote>It's a repository of simple application projects of <b>CRUD</b> (Create | Read | Update | Delete) with different architectures.</blockquote> 
 
 <img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png" align="right">
