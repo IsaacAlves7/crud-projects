@@ -1,10 +1,9 @@
-![241e9b23-f69f-4bcc-b760-2ee745b9e098](https://user-images.githubusercontent.com/61624336/159622843-8f7ffa91-e9a5-49f4-8980-69d03dd2c3a7.png)
+<a href=""><img src="https://user-images.githubusercontent.com/61624336/159622843-8f7ffa91-e9a5-49f4-8980-69d03dd2c3a7.png"></a>
 
 # 🆕🔠 C.R.U.D Projects for different languages 🔄🚮
 <blockquote>It's a repository of simple application projects of <b>CRUD</b> (Create | Read | Update | Delete) with different architectures.</blockquote> 
 
-<div align="center"><img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png"></div></br \>
-
+<img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png" align="right">
 
 # 🅲 C++ Language Programming
 <img src="">
