@@ -5,6 +5,8 @@
 
 <img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png" height="277" align="right">
 
+Para cada Web stack foi criado um CRUD, com funções semelhantes e distintas.
+
 # 📜 JavaScript (Node.js) Language Programming
 <img src="https://www.webdesignemfoco.com/img/files/original/368570-crud-nodejs-l.jpg">
 
