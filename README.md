@@ -3,7 +3,7 @@
 # 🆕🔠🔄🚮 C.R.U.D Projects for different languages
 <blockquote>It's a repository of simple application projects of <b>CRUD</b> (Create | Read | Update | Delete) with different architectures.</blockquote> 
 
-<img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png" align="right">
+<img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png" height="277" align="right">
 
 # 🅲 C++ Language Programming
 <img src="">
