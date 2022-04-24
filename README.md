@@ -5,19 +5,27 @@
 
 <img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png" height="277" align="right">
 
-As seguintes linguagens abaixo foram usadas:
+As seguintes linguagens com seus frameworks/bibliotecas abaixo foram usadas:
 
 - php
+  - Laravel  
 - javascript (Node.js)
+  - React.js
+  - Angular
+  - Vue.js 
 - ruby
+  - RubyOnRails
 - python
 
 Para cada Web stack foi criado um CRUD, com funções semelhantes e distintas. Abaixo se encontra cada web stack:
+
 - LAMP
 - LEMP
 - MERN
 - MEAN
 - MENV
+- PERN
+- FRAmP
 
 # 📜 JavaScript (Node.js) Language Programming
 <img src="https://www.webdesignemfoco.com/img/files/original/368570-crud-nodejs-l.jpg">
