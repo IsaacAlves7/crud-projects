@@ -9,7 +9,12 @@ O **CRUD**, acrônimo para **C**reate, **R**ead, **U**pdate e **D**elete, nada m
 
 Portanto, essa é uma aplicação Back-End que pode conter ou não interface gráfica, além de você utilizar ela de forma particular ou integrando em conjunto com outro projeto, tudo isso vai depender da necessidade.
 
-Então, escolha uma linguagem de programação da sua preferência, com suporte ao paradigma **OOP** - Paradigma de Orientação a Objetos, e utilize conforme o seu desejo na sua aplicação. Você também pode usar uma **Web stack** para padronizar o seu desenvolvimento. Abaixo se encontra algumas web stacks mais utilizadas para fazer esse projeto:
+Então, escolha uma linguagem de programação da sua preferência, com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação. Em relação ao **banco de dados**, você pode escolher algum modelo de banco com o tipo de consulta: **SQL**, **No-SQL** ou **T-SQL**, por isso foram feitos algumas técnicas de desenvolvimento:
+
+- **ORM**
+- **ODM**
+
+Você também pode usar uma **Web stack** para padronizar o seu desenvolvimento. Abaixo se encontra algumas web stacks mais utilizadas para fazer esse projeto:
 
 - LAMP
 - LEMP
