@@ -11,11 +11,13 @@ O **CRUD**, acrônimo para **C**reate, **R**ead, **U**pdate e **D**elete, nada m
 Portanto, essa é uma aplicação Back-End que pode conter ou não interface gráfica, além de você utilizar ela de forma particular ou integrando em conjunto com outro projeto, tudo isso vai depender da necessidade.
 
 ## Preparação da aplicação
-Então, escolha uma linguagem de programação da sua preferência, com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação. Em relação ao **banco de dados**, você pode escolher algum modelo de banco com o tipo de consulta: **SQL**, **No-SQL** ou **T-SQL**, por isso foram feitos algumas técnicas de desenvolvimento:
+Então, escolha uma linguagem de programação da sua preferência, com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação. Em relação ao **banco de dados**, você pode escolher algum **modelo de banco** com o tipo de consulta: **SQL** (relacional), **No-SQL** ou **T-SQL**, por isso foram feitos algumas **técnicas de programação de mapeamento** para converter dados entre incompatíveis tipos de sistemas em banco de dados e linguagens de programação orientadas a objeto. Isso cria, um efeito de um "objeto virtual de banco dados" que pode ser usado de dentro da linguagem de programação, e assim, melhorar o desenvolvimento de consultas no banco de dados:
 
-- **ORM** (Mapeamento objeto-relacional)
-- **ODM** ()
-- **COM**
+- **ORM** (Mapeamento objeto-relacional) serve para banco de dados relacionais
+- **ODM** (Mapeamento objeto-documento) serve para banco de dados NoSQL
+- **COM** (Mapeamento objeto-)
+
+> Essa parte será aprofundada melhor na **arquitetura MVC** com o tópico _Model_.
 
 ### Web Stacks
 Você também pode usar uma **Web stack** para padronizar o seu desenvolvimento. Abaixo se encontra algumas web stacks mais utilizadas para fazer esse projeto:
