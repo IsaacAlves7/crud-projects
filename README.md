@@ -22,7 +22,7 @@ Então, escolha uma linguagem de programação da sua preferência e utilize con
 
 Todas essas _web stacks_ obedecem a arquitetura padrão para aplicações web chamada **MVC**, acrônimo para **M**odel **V**iew **C**ontroller, onde o **Model** fica no back-end para acessar, controlar e colocar algum dado no banco de dados, **View** é onde se localiza todo o seu front-end e o **Controller** é onde se localiza as **APIs**, o **Router** onde fica a ação de rotas da aplicação e o **Controller** que é onde ficar a ação da aplicação em devolver alguma requisição ou resposta para ser renderizada no lado do cliente, no caso, no _View_.
 
-Além disso a integração com o lado do cliente e o lado do servidor é feito com uma API chamada **REST API**, necessária para atender as requisições e respostas enviadas pelos métodos do protocolo HTTP entre os dois lados.
+Além disso a integração com o lado do cliente e o lado do servidor é feito com uma API chamada **REST API**, necessária para atender as requisições e respostas enviadas pelos métodos do protocolo HTTP entre os dois lados. Para isso você deve configurar suas atividades do protocolo HTTP em ambos os lados da sua aplicação, para tanto o navegador quanto o servidor interpretar essa troca de mensagens entre si.
 
 <!-- 
 # 📜 JavaScript (Node.js) Language Programming
