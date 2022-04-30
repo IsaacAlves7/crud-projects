@@ -33,6 +33,8 @@ Você também pode usar uma **Web stack** para padronizar o seu desenvolvimento.
 - FRAmP
 - ROR
 
+> Cada stack possui uma linguagem de programação, porém você pode inserir bibliotecas e frameworks dessa linguagem, isso tudo pode ser muito bem customizável, dependendo do seu projeto e da etapa de desenvolvimento do software.
+
 ### Arquitetura usada
 Todas essas _web stacks_ obedecem a arquitetura padrão para aplicações web chamada **MVC**, acrônimo para **M**odel **V**iew **C**ontroller, onde o **Model** fica no back-end para acessar, controlar e colocar algum dado no banco de dados, **View** é onde se localiza todo o seu front-end e o **Controller** é onde se localiza as **APIs**, o **Router** onde fica a ação de rotas da aplicação e o **Controller** que é onde ficar a ação da aplicação em devolver alguma requisição ou resposta para ser renderizada no lado do cliente, ou seja ele funciona como um "intermediário" entre o _View_ e o _Model_.
 
