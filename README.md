@@ -26,11 +26,11 @@ Você também pode usar uma **Web stack** para padronizar o seu desenvolvimento.
 - LAMP (Linux, Apache, MySQL/MariaDB, PHP/Python/Perl)
 - LEMP (Linux, NGINX, MySQL/MariaDB, PHP/Python/Perl)
 - MERN (MongoDB, Express, React.js/React Native, Node.js)
-- MEAN
-- MENV
-- PERN
-- FRAmP
-- ROR
+- MEAN (MongoDB, Express, Angular, Node.js)
+- MENV (MongoDB, Express, Express, Node.js, Vue.js)
+- PERN (PostgreSQL, Express, React.js/React Native, Node.js)
+- FRAmP (Flask)
+- ROR (RubyOnRails)
 
 > Cada stack possui uma linguagem de programação, porém você pode inserir bibliotecas e frameworks dessa linguagem, isso tudo pode ser muito bem customizável, dependendo do seu projeto e da etapa de desenvolvimento do software.
 
