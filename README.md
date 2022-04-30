@@ -24,9 +24,9 @@ Em relação ao **banco de dados**, você pode escolher algum **modelo de banco*
 ### Web Stacks
 Você também pode usar uma **Web stack** para padronizar o seu desenvolvimento. Abaixo se encontra algumas web stacks mais utilizadas para fazer esse projeto:
 
-- LAMP
-- LEMP
-- MERN
+- LAMP (Linux, Apache, MySQL/MariaDB, PHP/Python/Perl)
+- LEMP (Linux, NGINX, MySQL/MariaDB, PHP/Python/Perl)
+- MERN (MongoDB, Express, React.js/React Native, Node.js)
 - MEAN
 - MENV
 - PERN
