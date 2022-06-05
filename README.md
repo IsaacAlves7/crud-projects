@@ -10,7 +10,7 @@ O **CRUD**, acrônimo para **C**reate, **R**ead, **U**pdate e **D**elete, nada m
 
 Portanto, essa é uma aplicação Back-End que pode conter ou não interface gráfica, além de você utilizar ela de forma particular ou integrando em conjunto com outro projeto, tudo isso vai depender da necessidade.
 
-> **Obs**: Então, um Crud é, basicamente, como se fosse um papel onde podemos: escrever, ler, apagar o que foi escrito ou atualizar aquela anotação.
+> **Obs**: Então, um Crud é, teoricamente, como se fosse um papel onde podemos: escrever, ler, apagar o que foi escrito ou atualizar aquela anotação.
 
 ## Preparação da aplicação
 Então, escolha uma linguagem de programação da sua preferência, com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação.
