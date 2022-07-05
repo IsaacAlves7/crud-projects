@@ -13,11 +13,18 @@ Portanto, essa é uma aplicação Back-End que pode conter ou não interface gr�
 > **Obs**: Então, um Crud é, teoricamente, como se fosse um papel onde podemos: escrever, ler, apagar o que foi escrito ou atualizar aquela anotação.
 
 ## Preparação da aplicação
+Então, escolha uma linguagem de programação da sua preferência, mais especificamente com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação. Mais precisamente utilizamos o seguinte padrão no desenvolvimento:
+
+- POO (Paradigma de Programação Orientada a Objetos);
+- Arquitetura MVC (Model View Controller);
+- Métodos HTTP;
+- ORM ou ODM;
+
+Coloquei lado a lado com a determinada funcionalidade que essas tecnologias desempenham atuando juntas na criação de um CRUD:
+
 ![deede](https://user-images.githubusercontent.com/61624336/177389704-cc4d941c-d5f6-496a-8881-4f5b140ead81.png)
 
-Então, escolha uma linguagem de programação da sua preferência, com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação.
-
-Em relação ao **banco de dados**, você pode escolher algum **modelo de banco** com o tipo de consulta: **SQL** (relacional), **No-SQL** ou **T-SQL**, por isso foram feitos algumas **técnicas de programação de mapeamento** para converter dados entre incompatíveis tipos de sistemas em banco de dados e linguagens de programação orientadas a objeto. Isso cria, um efeito de um "objeto virtual de banco dados" que pode ser usado de dentro da linguagem de programação, e assim, melhorar o desenvolvimento de consultas no banco de dados:
+Em relação ao **banco de dados**, você pode escolher algum **modelo de banco** com o tipo de consulta: **SQL** (relacional) ou **No-SQL**, por isso foram feitos algumas **técnicas de programação de mapeamento** para converter dados entre incompatíveis tipos de sistemas em banco de dados e linguagens de programação orientadas a objeto. Isso cria, um efeito de um "objeto virtual de banco dados" que pode ser usado de dentro da linguagem de programação, e assim, melhorar o desenvolvimento de consultas no banco de dados:
 
 - **ORM** (Mapeamento objeto-relacional) serve para banco de dados relacionais, com esse tipo de mapeamento podemos
 - **ODM** (Mapeamento objeto-documento) serve para banco de dados NoSQL, com esse tipo de mapeamento podemos
