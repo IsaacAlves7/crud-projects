@@ -24,6 +24,8 @@ Coloquei lado a lado com a determinada funcionalidade que essas tecnologias dese
 
 ![deede](https://user-images.githubusercontent.com/61624336/177389704-cc4d941c-d5f6-496a-8881-4f5b140ead81.png)
 
+> **Obs**: O mesmo serve para um banco de dados NoSQL que será feito com um tempo de resposta bem mais rápida.
+
 Em relação ao **banco de dados**, você pode escolher algum **modelo de banco** com o tipo de consulta: **SQL** (relacional) ou **No-SQL**, por isso foram feitos algumas **técnicas de programação de mapeamento** para converter dados entre incompatíveis tipos de sistemas em banco de dados e linguagens de programação orientadas a objeto. Isso cria, um efeito de um "objeto virtual de banco dados" que pode ser usado de dentro da linguagem de programação, e assim, melhorar o desenvolvimento de consultas no banco de dados:
 
 - **ORM** (Mapeamento objeto-relacional) serve para banco de dados relacionais, com esse tipo de mapeamento podemos
