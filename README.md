@@ -13,7 +13,7 @@ Portanto, essa é uma aplicação Back-End que pode conter ou não interface gr�
 > **Obs**: Então, um Crud é, teoricamente, como se fosse um papel onde podemos: escrever, ler, apagar o que foi escrito ou atualizar aquela anotação.
 
 ## Preparação da aplicação
-Então, escolha uma linguagem de programação da sua preferência (PHP, Ruby, Python, Node.js, Go, C++, C# e etc.), mais especificamente com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação. Mais precisamente utilizamos o seguinte padrão no desenvolvimento:
+Então, escolha uma linguagem de programação back-end da sua preferência (PHP, Ruby, Python, Node.js, Java, Go, C++, C# e etc.), mais especificamente com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação. Mais precisamente utilizamos o seguinte padrão no desenvolvimento:
 
 - POO (Paradigma de Programação Orientada a Objetos);
 - Arquitetura MVC (Model View Controller);
