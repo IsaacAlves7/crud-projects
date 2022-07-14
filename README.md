@@ -62,3 +62,7 @@ Além disso a integração com o lado do cliente e o lado do servidor é feito c
 # 🐍 Python Language Programming
 <img src="https://www.webdesignemfoco.com/img/files/original/194176-banner-curso-de-python-l.jpg">
  -->
+ 
+## Autor
+| [<img src="https://avatars.githubusercontent.com/u/61624336?v=4" width="110"><br><sub>@IsaacAlves7</sub>](https://github.com/IsaacAlves7) |
+| :---: |
