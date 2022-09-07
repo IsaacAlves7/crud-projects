@@ -21,6 +21,7 @@ Então, escolha uma linguagem de programação back-end da sua preferência (PHP
 - Arquitetura MVC (Model View Controller);
 - Métodos HTTP;
 - ORM ou ODM;
+- REST API;
 
 Coloquei lado a lado com a determinada funcionalidade que essas tecnologias desempenham atuando juntas na criação de um CRUD:
 
