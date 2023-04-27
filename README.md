@@ -1,7 +1,7 @@
 <a href="https://github.com/IsaacAlves7/crud-projects"><img src="https://user-images.githubusercontent.com/61624336/159622843-8f7ffa91-e9a5-49f4-8980-69d03dd2c3a7.png"></a>
 
 # 📝 C.R.U.D Projects for different languages
-<blockquote>It's a repository of simple application projects of <b>CRUD</b> (Create | Read | Update | Delete) with different architectures and projects.</blockquote> 
+> It's a repository of simple application projects of <b>CRUD</b> (Create | Read | Update | Delete) with different architectures and projects.
 
 ## Definição de CRUD
 <img src="https://static.platzi.com/media/landing-projects/Proyecto-Python-CRUD.png" height="277" align="right">
@@ -10,7 +10,7 @@ O **CRUD**, acrônimo para **C**reate, **R**ead, **U**pdate e **D**elete, nada m
 
 Portanto, essa é uma aplicação Back-End que pode conter ou não interface gráfica, além de você utilizar ela de forma particular ou integrando em conjunto com outro projeto, tudo isso vai depender da necessidade.
 
-> **Obs**: Então, um Crud é, teoricamente, como se fosse um papel onde podemos: escrever, ler, apagar o que foi escrito ou atualizar aquela anotação.
+> **Obs**: Então, um Crud é, teoricamente, como se fosse um papel onde podemos: escrever, ler, apagar o que foi escrito ou atualizar aquela anotação. Ele é praticamente um Todo-list, mas pode ser muito mais do que somente um tipo de aplicação web.
 
 ## Preparação da aplicação
 <img src="https://user-images.githubusercontent.com/61624336/184163155-980cbb4b-be36-43d1-b6c9-f6ccc20a2c7c.jpg" align="right" height="177">
