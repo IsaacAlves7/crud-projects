@@ -13,7 +13,7 @@ Portanto, essa é uma aplicação Back-End que pode conter ou não interface gr�
 > **Obs**: Então, um Crud é, teoricamente, como se fosse um papel onde podemos: escrever, ler, apagar o que foi escrito ou atualizar aquela anotação.
 
 ## Preparação da aplicação
-![feature-7-1024x518](https://user-images.githubusercontent.com/61624336/184163155-980cbb4b-be36-43d1-b6c9-f6ccc20a2c7c.jpg)
+<img src="https://user-images.githubusercontent.com/61624336/184163155-980cbb4b-be36-43d1-b6c9-f6ccc20a2c7c.jpg" align="right" height="177">
 
 Então, escolha uma linguagem de programação back-end da sua preferência (PHP, Ruby, Python, Node.js, Java, Go, C++, C# e etc.), mais especificamente com suporte ao paradigma **OOP** - **P**aradigma de **O**rientação a **O**bjetos, e utilize conforme o seu desejo na sua aplicação. Mais precisamente utilizamos o seguinte padrão no desenvolvimento:
 
@@ -25,7 +25,33 @@ Então, escolha uma linguagem de programação back-end da sua preferência (PHP
 
 Coloquei lado a lado com a determinada funcionalidade que essas tecnologias desempenham atuando juntas na criação de um CRUD:
 
-![deede](https://user-images.githubusercontent.com/61624336/177389704-cc4d941c-d5f6-496a-8881-4f5b140ead81.png)
+<table>
+  <tr>
+    <td><b>CRUD</b></td>
+    <td><b>SQL</b></td>
+    <td><b>HTTP</b></td>
+  </tr>
+  <tr>
+    <td><b>C</b>reate</td>
+    <td>INSERT</td>
+    <td>POST</td>
+  </tr>
+  <tr>
+    <td><b>R</b>ead</td>
+    <td>SELECT</td>
+    <td>GET</td>
+  </tr>
+  <tr>
+    <td><b>U</b>pdate</td>
+    <td>UPDATE</td>
+    <td>PUT/PATCH</td>
+  </tr>
+  <tr>
+    <td><b>D</b>elete</td>
+    <td>DELETE/DROP</td>
+    <td>DELETE</td>
+  </tr>
+</table>
 
 > **Obs**: O mesmo serve para um banco de dados NoSQL que será feito com um tempo de resposta bem mais rápida.
 
